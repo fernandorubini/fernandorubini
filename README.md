@@ -27,8 +27,8 @@ App com autenticação via biometria facial (API da Unike), integração com Web
 
 ## 📚 Certificações e Cursos
 
-Bootcamp Banco PAN
-Aprendendo a Sintaxe Java - 5h
+-Bootcamp Banco PAN
+-Aprendendo a Sintaxe Java - 5h
 Banco PAN Java Developer | Aula Inaugural - 2 h
 Ciclo de Vida Android ViewModel, LiveData e Coroutines - 4 h
 Como Entregar seu Desafio de Projeto - 1h
