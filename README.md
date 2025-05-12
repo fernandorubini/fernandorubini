@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Fernando Rubini
+# 👋 Olá, eu sou Fernando Rubini
 
 Desenvolvedor Android com experiência prática em projetos reais, utilizando **Kotlin**, **Jetpack Compose**, **MVVM** e **Clean Architecture**. Atuo desde a concepção até a entrega de aplicativos escaláveis, com foco em performance, usabilidade e código limpo.
 
