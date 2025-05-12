@@ -31,9 +31,9 @@ App com autenticação via biometria facial (API da Unike), integração com Web
 - Aprendendo a Sintaxe Java - 5h
 - Banco PAN Java Developer | Aula Inaugural - 2 h
 - Ciclo de Vida Android ViewModel, LiveData e Coroutines - 4 h
-Como Entregar seu Desafio de Projeto - 1h
-Conheça as Oportunidades da DIO - 1h
-Conhecendo a Linguagem de Programação Java - 25h
+-Como Entregar seu Desafio de Projeto - 1h
+-Conheça as Oportunidades da DIO - 1h
+-Conhecendo a Linguagem de Programação Java - 25h
 Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso - 2h
 Debugging Java - 1h
 Desafios de Projetos: Crie Um Portfólio Vencedor - 1h
