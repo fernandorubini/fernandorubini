@@ -15,10 +15,10 @@ Desenvolvedor Android com experiência prática em projetos reais, utilizando **
 
 ## 📱 Projetos em Destaque
 
-### [Churrasquinho do Manuel 🍢](https://github.com/fernandorubini) *(em breve público)*  
+### [Churrasquinho do Manuel 🍢](https://github.com/fernandorubini)  
 Aplicativo Android completo para rede de restaurantes com múltiplas unidades e marcas, com módulos para clientes, equipe interna e gestão.  
 **Stack:** Kotlin, Compose, Firebase, Room, Retrofit, Koin, Clean Architecture
-
+*(em breve público)* 
 ### Facial Pay 🔐  
 App com autenticação via biometria facial (API da Unike), integração com WebView segura e pipeline de CI/CD com GitHub Actions.  
 **Stack:** Kotlin, MVVM, Firebase, Koin, Dynatrace, GA4
