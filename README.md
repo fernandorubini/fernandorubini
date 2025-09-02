@@ -15,7 +15,7 @@ Desenvolvedor Android com experiência prática em projetos reais, utilizando **
 
 ## Projetos em Destaque
 
-### [Churrasquinho do Manuel 🍢](https://github.com/fernandorubini)  
+### [Churrasquinho do Manuel](https://github.com/fernandorubini)  
 Aplicativo Android completo para rede de restaurantes com múltiplas unidades e marcas, com módulos para clientes, equipe interna e gestão.  
 **Stack:** Kotlin, Compose, Firebase, Room, Retrofit, Koin, Clean Architecture
 
