@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou Fernando Rubini
+# Olá, eu sou Fernando Rubini
 
 Desenvolvedor Android com experiência prática em projetos reais, utilizando **Kotlin**, **Jetpack Compose**, **MVVM** e **Clean Architecture**. Atuo desde a concepção até a entrega de aplicativos escaláveis, com foco em performance, usabilidade e código limpo.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - **Linguagens:** Kotlin, Java  
 - **Frameworks:** Jetpack Compose, MVVM, Clean Architecture  
@@ -13,20 +13,20 @@ Desenvolvedor Android com experiência prática em projetos reais, utilizando **
 
 ---
 
-## 📱 Projetos em Destaque
+## Projetos em Destaque
 
 ### [Churrasquinho do Manuel 🍢](https://github.com/fernandorubini)  
 Aplicativo Android completo para rede de restaurantes com múltiplas unidades e marcas, com módulos para clientes, equipe interna e gestão.  
 **Stack:** Kotlin, Compose, Firebase, Room, Retrofit, Koin, Clean Architecture
 
-### Facial Pay 🔐  
+### Facial Pay 
 *(em breve público)* 
 App com autenticação via biometria facial (API da Unike), integração com WebView segura e pipeline de CI/CD com GitHub Actions.  
 **Stack:** Kotlin, MVVM, Firebase, Koin, Dynatrace, GA4
 
 ---
 
-## 📚 Certificações e Cursos
+## Certificações e Cursos
 
 Bootcamp Banco PAN
 - Aprendendo a Sintaxe Java - 5h
@@ -104,12 +104,12 @@ Udemy
 
 ---
 
-## 📫 Onde me encontrar
+## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FernandoRubini-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/fernando-rubini-dev-549abb24)  
-📧 fernandorubini@hotmail.com  
-📍 Belo Horizonte - MG, Brasil
+fernandorubini@hotmail.com  
+Belo Horizonte - MG, Brasil
 
 ---
 
-🎯 Sempre em busca de desafios que unam tecnologia, impacto real e experiência do usuário.
+Sempre em busca de desafios que unam tecnologia, impacto real e experiência do usuário.
